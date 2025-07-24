@@ -1,6 +1,6 @@
 caches/
-datas/
 src/**/models/
 src/**/trained/
 src/**/__pycache__/
 models/
+datas/**/cache*
